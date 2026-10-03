@@ -20,7 +20,7 @@
     "device_version": "1.0.0"
   },
   "split": {
-    "enabled": false,
+    "enabled": true,
     "soft_serial_pin": "GP15"
   },
   "matrix_pins": {
