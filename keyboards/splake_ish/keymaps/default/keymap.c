@@ -1,4 +1,4 @@
-// Copyright 2026 Logan Bordewin-Allen (@theb0b12)
+// Copyright 2026 theb0b
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include QMK_KEYBOARD_H
