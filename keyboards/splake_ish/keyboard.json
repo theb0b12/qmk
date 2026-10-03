@@ -29,21 +29,6 @@
   },
   "diode_direction": "COL2ROW",
 
-  "rgblight": {
-    "driver": "ws2812",
-    "pin": "GP1",
-    "led_count": 8,
-    "split": true,
-    "split_count": [4, 4],
-    "default": {
-      "animation": "static_light",
-      "hue": 190,
-      "sat": 255,
-      "val": 127
-    }
-  },
-
-
   "layouts": {
     "LAYOUT": {
       "layout": [
